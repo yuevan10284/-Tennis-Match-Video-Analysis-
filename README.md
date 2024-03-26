@@ -28,6 +28,7 @@ Here is a screenshot from one of the output videos:
 - Pandas 🐼 (for data manipulation)
 - NumPy ➕ (for numerical operations)
 - OpenCV 📸 (for image and video processing)
-
+- Roboflow 🤖 (for dataset management)
+  
 ## Developer Section 👨‍💻
 This project is developed by [yuevan10284 on GitHub](https://github.com/yuevan10284). Feel free to contribute, provide feedback, or star the project if you find it useful! ⭐
