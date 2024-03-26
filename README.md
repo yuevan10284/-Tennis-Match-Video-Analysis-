@@ -22,12 +22,12 @@ Here is a screenshot from one of the output videos:
 - Tennis court keypoints with Pytorch: `training/tennis_court_keypoints_training.ipynb` 🧠
 
 ## Requirements 🛠️
-- python3.8 🐍
-- ultralytics 🔍
-- pytorch 🔥
-- pandas 🐼
-- numpy ➕
-- opencv 📸
+- Python 3.8 🐍
+- Ultralytics 🔍 (YOLO framework)
+- PyTorch 🔥 (for deep learning models)
+- Pandas 🐼 (for data manipulation)
+- NumPy ➕ (for numerical operations)
+- OpenCV 📸 (for image and video processing)
 
 ## Developer Section 👨‍💻
 This project is developed by [yuevan10284 on GitHub](https://github.com/yuevan10284). Feel free to contribute, provide feedback, or star the project if you find it useful! ⭐
